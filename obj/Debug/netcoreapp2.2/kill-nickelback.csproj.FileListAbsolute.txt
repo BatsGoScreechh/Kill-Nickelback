@@ -1,0 +1,11 @@
+C:\Users\Newforce\workspace\csharp\book1\chapter-8\kill-nickelback\bin\Debug\netcoreapp2.2\kill-nickelback.deps.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-8\kill-nickelback\bin\Debug\netcoreapp2.2\kill-nickelback.runtimeconfig.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-8\kill-nickelback\bin\Debug\netcoreapp2.2\kill-nickelback.runtimeconfig.dev.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-8\kill-nickelback\bin\Debug\netcoreapp2.2\kill-nickelback.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-8\kill-nickelback\bin\Debug\netcoreapp2.2\kill-nickelback.pdb
+C:\Users\Newforce\workspace\csharp\book1\chapter-8\kill-nickelback\obj\Debug\netcoreapp2.2\kill-nickelback.csprojAssemblyReference.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-8\kill-nickelback\obj\Debug\netcoreapp2.2\kill-nickelback.csproj.CoreCompileInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-8\kill-nickelback\obj\Debug\netcoreapp2.2\kill-nickelback.AssemblyInfoInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-8\kill-nickelback\obj\Debug\netcoreapp2.2\kill-nickelback.AssemblyInfo.cs
+C:\Users\Newforce\workspace\csharp\book1\chapter-8\kill-nickelback\obj\Debug\netcoreapp2.2\kill-nickelback.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-8\kill-nickelback\obj\Debug\netcoreapp2.2\kill-nickelback.pdb
